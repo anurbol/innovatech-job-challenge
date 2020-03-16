@@ -1,1 +1,74 @@
 
+{
+  "username": "Billbrat",
+  "avatar": "https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/123.png",
+  "about": "Hi there. Welcome to my home. I enjoy meeting people from all over the world and I enjoy showing others why I love living in Central London. All the museums and art galleries are just a walk or ride away from me and Camden Lock is 8",
+  "location": "Алматы, Казахстан",
+  "languages": "Казахский, Русский, Английский",
+  "stats": {
+    "recommended_by": 80,
+    "average_response_time": 30
+  },
+  "property": [
+    {
+      "title": "Квартира-студия с гостиничным сервисом",
+      "photos": ["https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png", "https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png"],
+      "price": 12000,
+      "price_type": "per_day",
+      "rooms": 4,
+      "max_guests": 4,
+      "address": "Сейфуллина 458, Айтек би Алматы",
+      "rating": {
+        "score": 4.5,
+        "raters_count": 85
+      },
+      "free_cancelling": true,
+      "badges": ["blue", "green"]
+    },
+    {
+      "title": "Квартира-студия с гостиничным сервисом",
+      "photos": ["https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png", "https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png"],
+      "price": 12000,
+      "price_type": "per_day",
+      "rooms": 4,
+      "max_guests": 4,
+      "address": "Сейфуллина 458, Айтек би Алматы",
+      "rating": {
+        "score": 4.5,
+        "raters_count": 85
+      },
+      "free_cancelling": true,
+      "badges": ["green"]
+    },
+    {
+      "title": "Квартира-студия с гостиничным сервисом",
+      "photos": ["https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png", "https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png"],
+      "price": 12000,
+      "price_type": "per_day",
+      "rooms": 4,
+      "max_guests": 4,
+      "address": "Сейфуллина 458, Айтек би Алматы",
+      "rating": {
+        "score": 4.5,
+        "raters_count": 85
+      },
+      "free_cancelling": true,
+      "badges": ["blue", "green"]
+    },
+    {
+      "title": "Квартира-студия с гостиничным сервисом",
+      "photos": ["https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png", "https://raw.githubusercontent.com/anurbol/innovatech-job-challenge/master/rest-api/landlords/property.png"],
+      "price": 12000,
+      "price_type": "per_day",
+      "rooms": 4,
+      "max_guests": 4,
+      "address": "Сейфуллина 458, Айтек би Алматы",
+      "rating": {
+        "score": 4.5,
+        "raters_count": 85
+      },
+      "free_cancelling": true,
+      "badges": ["blue", "green"]
+    }
+  ]
+}
